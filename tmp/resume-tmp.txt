@@ -1,0 +1,3 @@
+Certified Python, C++, Visual Studio, Git, Web-D (Django), SDL 2, SQL, Linux, Sockets, Testing, Shell, Java, Android, JavaScript, Matlab, Arduino
+
+
